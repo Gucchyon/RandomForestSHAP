@@ -1,1 +1,3 @@
 # RandomForestSHAP
+
+BiocharRandomForestSHAP.ipynbのファイルをダブルクリック
